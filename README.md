@@ -25,7 +25,7 @@ I'm developing portfolio projects that combine UI/UX thinking with practical AI 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vinay%20Chandra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinay-chandra-a8b99b261)
+[![LinkedIn] https://www.linkedin.com/in/vinay-chandra-trilok-a8b99b261/
 
 ---
 
